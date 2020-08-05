@@ -18,3 +18,4 @@ Be interested in Rust and functional language and trying to try.
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sang-heon-jeon-994515190)](https://www.linkedin.com/in/sang-heon-jeon-994515190)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekffu200098@gmail.com)](mailto:ekffu200098@gmail.com)
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=medium&link=https://medium.com/@ekffu200098/)](https://medium.com/@ekffu200098/) 
