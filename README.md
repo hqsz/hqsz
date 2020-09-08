@@ -11,11 +11,10 @@ Be interested in Rust and functional language and trying to try.
   - [tortoise-orm](https://github.com/tortoise/tortoise-orm) : Easy-to-use asyncio ORM inspired by Django
   - [pypika](https://github.com/kayak/pypika) : Python API for building SQL queries
   - [uftrace](https://github.com/namhyung/uftrace) : Trace and analyze execution of a program written in C/C++
-- Sale : Would you like to go on contribution trip with [contribution checker](https://github.com/lntuition/daily-contribution-checker)? 
+- Would you like to go on contribution trip with [contribution checker](https://github.com/lntuition/daily-contribution-checker)? 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=lntuition)](https://github.com/lntuition)
 
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sang-heon-jeon-994515190)](https://www.linkedin.com/in/sang-heon-jeon-994515190)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekffu200098@gmail.com)](mailto:ekffu200098@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=medium&link=https://medium.com/@ekffu200098/)](https://medium.com/@ekffu200098/) 
