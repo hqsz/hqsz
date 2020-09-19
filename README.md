@@ -11,7 +11,7 @@ Be interested in Rust and functional language and trying to try.
   - [tortoise-orm](https://github.com/tortoise/tortoise-orm) : Easy-to-use asyncio ORM inspired by Django
   - [pypika](https://github.com/kayak/pypika) : Python API for building SQL queries
   - [uftrace](https://github.com/namhyung/uftrace) : Trace and analyze execution of a program written in C/C++
-- Would you like to go on contribution trip with [contribution checker](https://github.com/lntuition/daily-contribution-checker)? 
+- Would you like to go on contribution trip with [contribution markdown report](https://github.com/lntuition/contribution-markdown-report)? 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=lntuition)](https://github.com/lntuition)
 
