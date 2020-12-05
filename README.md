@@ -1,17 +1,12 @@
-### Introduce Myself
+### Hi, I'm Sang-Heon Jeon @lntuition
 
-- Motto : **Intuition is the best**
-- Brief : Always **enthusiastic** and **eager to learn**. 
-Especially interested in optimization and automation.
-Puts great weight on solving technical debt and **design for clean code**.
-Not afraid of **new environment** and **challenge**.
-- Technical stack : **C** and **Python** now.
-Be interested in Rust and functional language and trying to try.
-- Project : Interested in **Open-source** ecosystem and contribution.
-  - [tortoise-orm](https://github.com/tortoise/tortoise-orm) : Easy-to-use asyncio ORM inspired by Django
-  - [pypika](https://github.com/kayak/pypika) : Python API for building SQL queries
-  - [uftrace](https://github.com/namhyung/uftrace) : Trace and analyze execution of a program written in C/C++
-- Would you like to go on contribution trip with [contribution markdown report](https://github.com/lntuition/contribution-markdown-report)? 
+#### Technical stack
+- Using **Python** to make simple scripts or prototypes
+- Studying **Rust** as a hobby
+
+#### Interests
+- Everything from **Open-source**. Some contribution to [tortoise-orm](https://github.com/tortoise/tortoise-orm), [pypika](https://github.com/kayak/pypika), [isort](https://github.com/PyCQA/isort), [uftrace](https://github.com/namhyung/uftrace) and so on. 
+- Building **clean code** and **clean architecture**. I dream of becomming a **software craftsman**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=lntuition)](https://github.com/lntuition)
 
