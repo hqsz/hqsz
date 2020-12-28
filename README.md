@@ -12,5 +12,3 @@
 ### Links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sang-heon-jeon-994515190)](https://www.linkedin.com/in/sang-heon-jeon-994515190)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekffu200098@gmail.com)](mailto:ekffu200098@gmail.com)  
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=lntuition)](https://github.com/lntuition)
