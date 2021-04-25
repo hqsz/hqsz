@@ -2,7 +2,7 @@
 ---
 
 ### Technique
-- Using **Java + Spring** to develop web backend
+- Using **Kotlin + Spring** to develop web backend
 - Using **Python** to make script or prototype
 - Studying **Rust** as a hobby
 
