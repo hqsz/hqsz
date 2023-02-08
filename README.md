@@ -1,10 +1,9 @@
-### Hi, I'm Sang-Heon Jeon @lntuition 
----
+## Hi, I'm Sang-Heon Jeon @lntuition 
 
 ### Technique
 - Using **Kotlin + Spring** to develop web backend
-- Using **Python** to make script or prototype
 - Studying **Rust** as a hobby
+- Used **Python** to develop web backend and libraries
 
 ### Interest
 - Everything from **Open-source**. Some contribution to [tortoise-orm](https://github.com/tortoise/tortoise-orm), [pypika](https://github.com/kayak/pypika), [isort](https://github.com/PyCQA/isort), [uftrace](https://github.com/namhyung/uftrace) and so on. 
