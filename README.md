@@ -1,8 +1,7 @@
 ## Hi, I'm Sang-Heon Jeon @lntuition 
 
-- Using **Kotlin + Spring** to develop web-backend
-  - I'm paying attention to testing and making boundary in order to write robust and scalable code.
-  - I don't think there is a silver bullet in software development, and I always try to find a reasonable solution.
-- Studying **Rust** as a hobby
-- Used **Python** to develop web-backend and libraries
-  - Some contribution to [tortoise-orm](https://github.com/tortoise/tortoise-orm), [pypika](https://github.com/kayak/pypika), [isort](https://github.com/PyCQA/isort)
+- Using **Kotlin + Spring** to develop Back-end product
+  - I always consider writing `readable` code to be extremely important.
+  - I believe that tests are crucial for solving many issues during development, and I put significant effort into creating structures that are `easy to test`.
+  - I don't believe there's a silver bullet in development, so I strive to find `reasonable` solutions.
+  - I believe that identifying boundaries in code leads to more `maintainable` code.
