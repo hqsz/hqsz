@@ -1,4 +1,4 @@
-## Hi, I'm Sang-Heon Jeon @lntuition 
+## Hi, I'm Sang-Heon Jeon @hqsz 
 
 - Using **Kotlin + Spring** to develop Back-end product
   - I always consider writing `readable` code to be extremely important.
